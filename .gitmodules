@@ -1,3 +1,6 @@
 [submodule "Generate_instruction"]
 	path = Generate_instruction
 	url = https://github.com/MiheyPlayGame/Generate_instruction.git
+[submodule "GenAI-1-31-Solodkin"]
+	path = GenAI-1-31-Solodkin
+	url = https://github.com/FedorSolodkin/GenAI-1-31-Solodkin.git
