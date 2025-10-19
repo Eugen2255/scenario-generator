@@ -1,4 +1,4 @@
-# Generate_instruction
+# Scenario generator
 
 ## Task description
 Генерирует сценарий для видео по запросу пользователя с помощью локальной модели Ollama.
